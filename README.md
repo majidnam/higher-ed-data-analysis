@@ -30,3 +30,5 @@ This project uses a number of open-source tools developed by others, the most no
 * [Seaborn](https://seaborn.pydata.org/)
 * [Jupyter Notebooks](https://jupyter.org/)
 * [scikit-learn](https://scikit-learn.org/)
+* [scipy](https://scipy.org/)
+* [statsmodels](https://www.statsmodels.org/)
